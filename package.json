@@ -1,0 +1,20 @@
+{
+  "name": "internmob",
+  "version": "0.0.1",
+  "description": "Add browsermob proxy support to intern, allowing verification of requests made in intern tests via HARs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified - i know\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikki/internmob.git"
+  },
+  "author": "Vikki <vikki.read@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "browsermob-proxy": "~1.0.5",
+    "dojo": "~1.9.3",
+    "intern": "~1.7.0"
+  }
+}
