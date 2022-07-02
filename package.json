@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "browsermob-proxy": "~1.0.5",
-    "dojo": "~1.9.3",
+    "dojo": "~1.17.0",
     "intern": "~1.7.0"
   }
 }
