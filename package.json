@@ -15,6 +15,7 @@
   "dependencies": {
     "browsermob-proxy": "~1.0.5",
     "dojo": "~1.9.3",
-    "intern": "~1.7.0"
+    "intern": "~1.7.0",
+    "lodash": "~4.16.0"
   }
 }
